@@ -11,7 +11,6 @@ Este repositório contém testes automatizados desenvolvidos em **C#**, utilizan
 - **Selenium WebDriver** - Para automação de testes em navegadores.
 - **xUnit/NUnit** - Frameworks de testes unitários.
 - **FluentAssertions** - Para asserções mais legíveis e intuitivas.
-- **SpecFlow** - Para testes BDD (Behavior Driven Development) (opcional, se aplicável).
 
 ## 📂 Estrutura do Projeto
 
